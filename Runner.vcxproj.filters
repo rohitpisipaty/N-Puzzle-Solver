@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\singa\Desktop\CS 580 HW-1\AssignPuzzle\SupportCode\src\Utils\GDraw.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\singa\Desktop\CS 580 HW-1\AssignPuzzle\SupportCode\src\Utils\GManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\singa\Desktop\CS 580 HW-1\AssignPuzzle\SupportCode\src\Utils\PseudoRandom.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\singa\Desktop\CS 580 HW-1\AssignPuzzle\SupportCode\src\Puzzle\Puzzle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\singa\Desktop\CS 580 HW-1\AssignPuzzle\SupportCode\src\Puzzle\PuzzleHeuristic1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\singa\Desktop\CS 580 HW-1\AssignPuzzle\SupportCode\src\Puzzle\PuzzleHeuristic2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\singa\Desktop\CS 580 HW-1\AssignPuzzle\SupportCode\src\Puzzle\PuzzleHeuristic3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\singa\Desktop\CS 580 HW-1\AssignPuzzle\SupportCode\src\Puzzle\PuzzleSolver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\singa\Desktop\CS 580 HW-1\AssignPuzzle\SupportCode\src\Programs\GRunPuzzle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\singa\Desktop\CS 580 HW-1\AssignPuzzle\SupportCode\src\Programs\RunPuzzleSolver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\singa\Desktop\CS 580 HW-1\AssignPuzzle\SupportCode\src\Programs\RunRandomPuzzle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\singa\Desktop\CS 580 HW-1\AssignPuzzle\SupportCode\src\Programs\Runner.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\singa\Desktop\CS 580 HW-1\AssignPuzzle\SupportCode\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{62A3F128-FFD8-3962-8497-8D8543043D6C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,3 @@
+C:/Users/singa/Desktop/CS 580 HW-1/AssignPuzzle/SupportCode/CMakeFiles/Runner.dir
+C:/Users/singa/Desktop/CS 580 HW-1/AssignPuzzle/SupportCode/CMakeFiles/ALL_BUILD.dir
+C:/Users/singa/Desktop/CS 580 HW-1/AssignPuzzle/SupportCode/CMakeFiles/ZERO_CHECK.dir
